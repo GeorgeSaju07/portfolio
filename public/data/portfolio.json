@@ -1,0 +1,245 @@
+
+{
+  "name": "George Saju",
+  "title": "Data Scientist & AI/ML Specialist",
+  "hero": {
+    "badge": "Available for new opportunities",
+    "tagline": "I build intelligent systems that learn from data — specializing in production-grade ML pipelines, LLM-powered solutions, and scalable data architectures. Certified Data Scientist with expertise in Python, Power BI, Pandas, Polars, SQL, FastAPI, and Predictive Analytics, currently driving data-driven solutions at Zifo RnD Solutions.",
+    "stats": [
+      {
+        "number": "3+",
+        "label": "Years Experience"
+      },
+      {
+        "number": "15+",
+        "label": "ML Models Deployed"
+      }
+    ]
+  },
+  "about": {
+    "title": "Turning raw data into intelligent decisions",
+    "paragraphs": [
+      "I'm a Certified Data Scientist & AI/ML Engineer with 3+ years of hands-on experience designing, building, and deploying intelligent systems across healthcare and pharmaceutical domains. My work sits at the intersection of statistical rigor and software engineering — developing scalable data pipelines, production-ready machine learning models, and high-performance data solutions that deliver real business impact. I specialize in the end-to-end ML lifecycle, from data preprocessing and feature engineering to model deployment and API integration. I have strong expertise in Python-based ecosystems, leveraging Pandas, Polars, NumPy, and Apache Spark to process and optimize large-scale scientific and analytical data. I design and implement robust REST APIs using FastAPI, enabling seamless data integration and real-time, high-performance data retrieval across systems. My experience includes building predictive models for scientific data interpretation, developing parsers for complex instrument data, and creating automated pipelines that significantly improve efficiency and reduce processing time. I also focus on translating complex data into actionable insights through advanced visualization tools like Matplotlib, Seaborn, and Power BI, empowering data-driven decision-making. Beyond building models, I prioritize interpretability and real-world usability — ensuring that every solution I develop is not only accurate, but also scalable, explainable, and impactful in production environments."
+    ],
+    "highlights": [
+      "End-to-End ML Development",
+      "Scalable Data Pipelines",
+      "NLP & Computer Vision",
+      "LLM Integration & RAG",
+      "Statistical Analysis",
+      "Business Storytelling"
+    ]
+  },
+  "skills": {
+  "categories": [
+    {
+      "title": "Core ML & AI",
+      "skills": [
+        {
+          "name": "Python",
+          "level": "Expert · 3+ years",
+          "proficiency": 0.95
+        },
+        {
+          "name": "Machine Learning",
+          "level": "Expert · scikit-learn, XGBoost",
+          "proficiency": 0.93
+        },
+        {
+          "name": "Deep Learning",
+          "level": "Advanced · PyTorch, TensorFlow",
+          "proficiency": 0.88
+        },
+        {
+          "name": "Generative AI & LLMs",
+          "level": "Advanced · GPT, RAG, Agents",
+          "proficiency": 0.87
+        },
+        {
+          "name": "Natural Language Processing (NLP)",
+          "level": "Advanced · Text Processing, Transformers",
+          "proficiency": 0.85
+        },
+        {
+          "name": "Predictive Analytics",
+          "level": "Advanced · Forecasting & Modeling",
+          "proficiency": 0.88
+        }
+      ]
+    },
+    {
+      "title": "Data Engineering & Big Data",
+      "skills": [
+        {
+          "name": "PySpark",
+          "level": "Advanced · Distributed Data Processing",
+          "proficiency": 0.85
+        },
+        {
+          "name": "ETL Pipelines",
+          "level": "Advanced · Data Cleaning & Transformation",
+          "proficiency": 0.88
+        },
+        {
+          "name": "FastAPI",
+          "level": "Advanced · REST API Development",
+          "proficiency": 0.87
+        },
+        {
+          "name": "Data Processing",
+          "level": "Expert · Pandas, Polars, NumPy",
+          "proficiency": 0.94
+        }
+      ]
+    },
+    {
+      "title": "Databases & Querying",
+      "skills": [
+        {
+          "name": "SQL",
+          "level": "Expert · MySQL, PostgreSQL",
+          "proficiency": 0.92
+        },
+        {
+          "name": "MongoDB",
+          "level": "Intermediate · NoSQL",
+          "proficiency": 0.75
+        },
+        {
+          "name": "PostgreSQL",
+          "level": "Intermediate · SQL",
+          "proficiency": 0.75
+        }
+      ]
+    },
+    {
+      "title": "Analytics & Visualization",
+      "skills": [
+        {
+          "name": "Power BI",
+          "level": "Intermediate · Dashboarding & Reporting",
+          "proficiency": 0.75
+        },
+        {
+          "name": "Data Visualization",
+          "level": "Advanced · Matplotlib, Seaborn",
+          "proficiency": 0.88
+        },
+        {
+          "name": "Exploratory Data Analysis (EDA)",
+          "level": "Advanced · Statistical Insights",
+          "proficiency": 0.90
+        }
+      ]
+    },
+    {
+      "title": "Domain & Specialized Skills",
+      "skills": [
+        {
+          "name": "Scientific Data Processing",
+          "level": "Advanced · NMR, HPLC, GC-MS Parsing",
+          "proficiency": 0.85
+        }
+      ]
+    },
+    {
+      "title": "Tools & Technologies",
+      "skills": [
+        {
+          "name": "Git & GitHub",
+          "level": "Advanced · Version Control",
+          "proficiency": 0.85
+        },
+        {
+          "name": "Jupyter Notebook",
+          "level": "Expert · Experimentation",
+          "proficiency": 0.95
+        }
+      ]
+    }
+  ]
+},
+  "experience": [
+    {
+      "period": "Jan 2023 – April 2027",
+      "location": "Chennai, India",
+      "role": "Analyst | Data Scientist",
+      "company": "Zifo Technologies PVT LTD",
+      "companyType": "Pharmasutical Research",
+      "achievements": [
+        "Built high-performance data pipelines using Polars, achieving a 40% improvement in processing speed over Pandas. Automated instrument data extraction workflows, reducing manual effort by 80% and enhancing efficiency. Developed RESTful APIs using FastAPI, boosting system performance by 60% and enabling seamless data integration. Designed and implemented interactive data visualization dashboards to enhance operational insights and support data-driven decision-making. Engineered scalable ETL pipelines and big data workflows using PySpark for efficient large-scale data processing."
+      ]
+    }
+  ],
+  "projects": [
+    {
+  "title": "Hand Gesture-Based Brightness Control System",
+  "type": "Computer Vision · AI",
+  "problem": "Traditional screen brightness adjustment methods rely on manual controls, leading to poor user experience and inefficiency. There was a need for an intuitive, touch-free solution that enables real-time brightness control using natural hand gestures.",
+  "approach": "Developed a real-time computer vision system using OpenCV and Mediapipe to detect and track hand landmarks. Implemented gesture recognition by calculating the distance between thumb and index finger, and applied interpolation techniques to dynamically map gesture distance to system brightness levels. Integrated Screen Brightness Control (SBC) for seamless cross-platform brightness adjustment.",
+  "metrics": [
+    "Real-time processing (30+ FPS)",
+    "Smooth brightness transition",
+    "Cross-platform compatibility"
+  ],
+  "stack": [
+    "Python",
+    "OpenCV",
+    "MediaPipe",
+    "NumPy",
+    "Screen Brightness Control (SBC)"
+  ],
+  "year": "2024",
+  "github": "https://github.com/GeorgeSaju07/HandGesture-Brightness"
+},
+    {
+  "title": "Oral Cancer Prediction using Machine Learning",
+  "type": "End-to-End ML · Healthcare AI",
+  "problem": "Early detection of oral cancer is critical for improving patient outcomes, yet traditional diagnostic approaches can be time-consuming and dependent on manual evaluation. There was a need for a data-driven system to predict oral cancer risk using patient demographics, lifestyle factors, and clinical indicators.",
+  "approach": "Developed an end-to-end machine learning pipeline using scikit-learn to process and model 84,000+ patient records. Implemented data preprocessing with missing value imputation and one-hot encoding, followed by automated feature selection using SelectFromModel with Gradient Boosting. Trained a GradientBoostingClassifier with stratified data splitting to ensure balanced class distribution and robust model performance.",
+  "metrics": [
+    "Dataset: 84,000+ records",
+    "Robust classification performance",
+    "Improved early risk prediction capability"
+  ],
+  "stack": [
+    "Python",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "Matplotlib",
+    "Seaborn"
+  ],
+  "year": "2024",
+  "github": "https://github.com/GeorgeSaju07/Oral_Cancer_ML_Project"
+},
+    {
+  "title": "Weather Data Analysis & Ozone Insights (EDA)",
+  "type": "Exploratory Data Analysis · Data Science",
+  "problem": "Understanding the relationship between atmospheric variables and ozone levels is critical for environmental monitoring and air quality assessment. However, raw weather data often lacks clear insights without proper statistical analysis and visualization.",
+  "approach": "Performed comprehensive exploratory data analysis on weather data, including data cleaning, preprocessing, and statistical evaluation. Applied visualization techniques such as distribution plots, boxplots, correlation heatmaps, and pairplots to uncover relationships between variables like temperature, solar radiation, wind speed, and ozone levels. Identified key patterns influencing ozone formation through correlation and trend analysis.",
+  "metrics": [
+    "Identified strong positive correlation between temperature and ozone",
+    "Detected negative correlation between wind speed and ozone levels",
+    "Derived actionable environmental insights from multi-variable analysis"
+  ],
+  "stack": [
+    "Python",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn"
+  ],
+  "year": "2024",
+  "github": "https://github.com/GeorgeSaju07/Weather_Exploratory_Data_Analysis"
+}
+  ],
+  "contact": {
+    "message": "Whether you're hiring a Data Scientist, have a complex ML problem to solve, or just want to talk about AI — my inbox is open. I typically reply within 24 hours.",
+    "email": "georgesaju90@email.com",
+    "resume": "/Resume.pdf",
+    "linkedin": "https://www.linkedin.com/in/george-saju-a9a0a71b7/",
+    "github": "https://github.com/GeorgeSaju07"
+  
+  }
+}
