@@ -232,6 +232,47 @@
   ],
   "year": "2024",
   "github": "https://github.com/GeorgeSaju07/Weather_Exploratory_Data_Analysis"
+},
+{
+  "title": "Python Screen Recorder",
+  "type": "Automation · Video Processing",
+  "problem": "Recording screen activities for tutorials, presentations, debugging, and documentation often requires heavy software with complex setups. There was a need for a lightweight, efficient, and customizable screen recording solution built using Python.",
+  "approach": "Developed a real-time screen recording application using PyAutoGUI for screen capture and OpenCV for video processing and encoding. Implemented frame-by-frame capture and conversion into video format with adjustable FPS. Integrated keyboard-based controls to start and stop recording efficiently while maintaining performance and video quality.",
+  "metrics": [
+    "Real-time screen capture",
+    "Adjustable frame rate (FPS)",
+    "High-quality video output",
+    "Lightweight and efficient execution"
+  ],
+  "stack": [
+    "Python",
+    "OpenCV",
+    "NumPy",
+    "PyAutoGUI",
+    "Keyboard"
+  ],
+  "year": "2024",
+  "github": "https://github.com/GeorgeSaju07/Screen_Recorder_Using_Python"
+},
+{
+  "title": "CSV to Parquet Conversion using Python",
+  "type": "Data Engineering · Data Processing",
+  "problem": "CSV files are widely used but inefficient for large-scale data processing due to larger file sizes and slower read performance. There was a need for a more optimized storage format to improve data processing speed and scalability.",
+  "approach": "Developed a Python-based solution using Pandas along with PyArrow and Fastparquet to convert CSV files into Apache Parquet format. Leveraged columnar storage and compression techniques to significantly reduce file size and enhance read performance for analytics and machine learning workflows.",
+  "metrics": [
+    "Reduced file size using compression",
+    "Faster data read performance",
+    "Optimized for large-scale data processing",
+    "Improved efficiency for analytics workloads"
+  ],
+  "stack": [
+    "Python",
+    "Pandas",
+    "PyArrow",
+    "Fastparquet"
+  ],
+  "year": "2024",
+  "github": "https://github.com/GeorgeSaju07/Apache-Parquet-File-"
 }
   ],
   "contact": {
